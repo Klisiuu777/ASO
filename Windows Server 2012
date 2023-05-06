@@ -1,0 +1,55 @@
+    Edycje Windows Server 2012:
+
+Windows Server 2012 dostępny jest w czterech edycjach:
+
+a) Windows Server 2012 Datacenter - przeznaczony dla organizacji o dużych wymaganiach w zakresie wirtualizacji i obsługi chmury.
+
+b) Windows Server 2012 Standard - odpowiedni dla firm o mniejszych wymaganiach w zakresie wirtualizacji, ale z potrzebą obsługi różnorodnych aplikacji.
+
+c) Windows Server 2012 Essentials - dedykowany dla małych firm, oferujący podstawowe funkcje serwera.
+
+d) Windows Server 2012 Foundation - najprostsza edycja, przeznaczona dla mikrofirm bez potrzeby wirtualizacji.
+
+    Reguły licencyjne Windows Server 2012 R2:
+
+2.1. Licencja Windows Server 2012 R2 obejmuje 2 procesory na jedną licencję.
+
+2.2. Sposoby nabywania licencji Windows Server 2012 R2 to zakup przez firmę Microsoft, partnerów handlowych lub w ramach programów licencyjnych.
+
+2.3. Licencjonowanie serwera CAL polega na przypisywaniu licencji do konkretnej liczby użytkowników lub urządzeń, które będą korzystać z usług serwera.
+
+2.4. Wersja Windows Server 2012 R2 Datacenter charakteryzuje się nieograniczoną liczbą wirtualnych instancji systemu oraz zaawansowanymi funkcjami wirtualizacji.
+
+2.5. Wersja Windows Server 2012 R2 Standard pozwala na dodawanie wielu ról, takich jak Active Directory, DHCP, DNS, IIS, Hyper-V, RDS, Failover Clustering, czy Network Policy and Access Services.
+
+2.6. Wirtualizacja może być wykorzystana do zarządzania zasobami, izolacji aplikacji, tworzenia środowisk testowych, skalowania infrastruktury, czy optymalizacji kosztów.
+
+2.7. Windows Server 2012 Foundation to edycja, którą można nabyć wraz ze sprzętem.
+
+2.8. Modele licencyjne dla Windows Server 2012 obejmują licencjonowanie procesorowe oraz licencjonowanie CAL.
+
+2.9. Jedna licencja Windows Server 2012 Standard licencjonuje 2 procesory, podczas gdy jedna licencja Datacenter licencjonuje również 2 procesory.
+
+2.10. Licencje dostępowe CAL występują w dwóch formach: na użytkownika (User CAL) oraz na urządzenie (Device CAL).
+
+    Licencjonowanie Windows Server 2012 różni się w zależności od regionu, w którym jest nabywany. Warto sprawdzić lokalne przepisy i regulacje dotyczące licencji na stronach Microsoft.
+
+    Wymagania sprzętowe:
+
+• Minimalne wymagania sprzętowe dla Windows Server 2012: 1,4 GHz 64-bitowy procesor, 512 MB RAM, 32 GB wolnego miejsca na dysku.
+
+• Zalecane wymagania sprzętowe dla Windows Server 2012: 2 GHz 64-bitowy procesor, 2 GB RAM, 40 GB wolnego miejsca na dysku.
+
+• Limit RAM: 4 TB dla edycji Datacenter i Standard, 64 GB dla Essentials, 32 GB dla Foundation.
+
+• Procesory: 64-bitowe procesory.
+
+• Maksymalna liczba obsługiwanych procesorów: 640 dla edycji Datacenter, 64 dla Standard, 4 dla Essentials i 1 dla Foundation.
+
+Podsumowanie:
+
+Windows Server 2012 dostępny jest w czterech edycjach, różniących się funkcjonalnościami i licencjonowaniem. Licencja obejmuje 2 procesory na jedną licencję, a licencjonowanie CAL dotyczy liczby użytkowników lub urządzeń korzystających z usług serwera. Wymagania sprzętowe zależą od edycji systemu.
+
+Metoda zapamiętywania:
+
+Można zastosować technikę tworzenia akronimu z pierwszych liter nazw edycji systemu Windows Server 2012, np. "DFSE" (Datacenter, Foundation, Standard, Essentials). Ponadto warto zapamiętać kluczowe liczby, takie jak 2 procesory na licencję czy 4 TB maksymalnego RAM-u dla edycji Datacenter i Standard.
