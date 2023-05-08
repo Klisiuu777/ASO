@@ -10,6 +10,7 @@ c) Windows Server 2012 Essentials - dedykowany dla małych firm, oferujący pods
 
 d) Windows Server 2012 Foundation - najprostsza edycja, przeznaczona dla mikrofirm bez potrzeby wirtualizacji.
 
+
     2.0. Reguły licencyjne Windows Server 2012 R2:
 
 2.1. Licencja Windows Server 2012 R2 obejmuje 2 procesory na jedną licencję.
@@ -31,10 +32,12 @@ d) Windows Server 2012 Foundation - najprostsza edycja, przeznaczona dla mikrofi
 2.9. Jedna licencja Windows Server 2012 Standard licencjonuje 2 procesory, podczas gdy jedna licencja Datacenter licencjonuje również 2 procesory.
 
 2.10. Licencje dostępowe CAL występują w dwóch formach: na użytkownika (User CAL) oraz na urządzenie (Device CAL).
+
     
     3.0 Znajdź różnice w licencjonowaniu Windows Server 2012 dla poszczególnych krajów na świecie:
 
-    Licencjonowanie Windows Server 2012 różni się w zależności od regionu, w którym jest nabywany. Warto sprawdzić lokalne przepisy i regulacje dotyczące licencji na stronach Microsoft.
+Licencjonowanie Windows Server 2012 różni się w zależności od regionu, w którym jest nabywany. Warto sprawdzić lokalne przepisy i regulacje dotyczące licencji na stronach Microsoft.
+
 
     4.0. Wymagania sprzętowe:
 
@@ -47,6 +50,7 @@ d) Windows Server 2012 Foundation - najprostsza edycja, przeznaczona dla mikrofi
 • Procesory: 64-bitowe procesory.
 
 • Maksymalna liczba obsługiwanych procesorów: 640 dla edycji Datacenter, 64 dla Standard, 4 dla Essentials i 1 dla Foundation.
+
 
 Podsumowanie:
 
