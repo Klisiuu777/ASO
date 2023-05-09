@@ -29,6 +29,7 @@ c) Windows Server 2012 Essentials - dedykowany dla małych firm, oferujący pods
         -     Integracja z Active Directory - serwer Essentials może być zintegrowany z Active Directory, co umożliwia bardziej zaawansowane zarządzanie użytkownikami i grupami.
 
         -     Wsparcie dla wirtualizacji - serwer Essentials może być uruchamiany jako maszyna wirtualna, co umożliwia łatwe wdrożenie i skalowanie wirtualnych środowisk serwerowych.
+        
 
 d) Windows Server 2012 Foundation - najprostsza edycja, przeznaczona dla mikrofirm bez potrzeby wirtualizacji.
 
