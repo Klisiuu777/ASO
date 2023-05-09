@@ -8,6 +8,28 @@ b) Windows Server 2012 Standard - odpowiedni dla firm o mniejszych wymaganiach w
 
 c) Windows Server 2012 Essentials - dedykowany dla małych firm, oferujący podstawowe funkcje serwera.
 
+    c --1.0) jakie są podstawowe funkcje serwera Windows Server 2012 Essentials:
+    
+        -     Udostępnianie plików i drukarek - serwer Essentials umożliwia łatwe udostępnianie plików i drukarek w sieci firmowej, dzięki czemu pracownicy mogą łatwo współpracować i korzystać z zasobów.
+
+        -     Zarządzanie użytkownikami i grupami - serwer Essentials zapewnia centralizowane zarządzanie użytkownikami i grupami, dzięki czemu można łatwo kontrolować dostęp do różnych zasobów i usług.
+
+        -     Automatyczne tworzenie kopii zapasowych - Essentials automatycznie tworzy kopie zapasowe ważnych danych, takich jak pliki użytkowników i ustawienia systemu, co zapewnia ochronę przed utratą danych.
+
+        -     Integracja z usługą chmury - Essentials umożliwia integrację z usługami chmury Microsoftu, takimi jak Microsoft 365, co ułatwia pracę z dokumentami i innymi zasobami w chmurze.
+
+        -     Ochrona przed wirusami i innymi zagrożeniami - serwer Essentials zawiera podstawowe narzędzia do ochrony przed wirusami i innymi zagrożeniami, takie jak wbudowany firewall i oprogramowanie antywirusowe.
+
+        -     Proste zarządzanie serwerem - Essentials oferuje prosty i intuicyjny interfejs zarządzania, który umożliwia łatwe konfigurowanie i zarządzanie serwerem.
+
+        -     Dostęp zdalny - serwer Essentials umożliwia łatwy dostęp zdalny do zasobów sieciowych, co umożliwia pracownikom zdalnym łatwe połączenie z firmowymi zasobami.
+
+        -     Wsparcie dla mobilnych urządzeń - Essentials zapewnia wsparcie dla mobilnych urządzeń, takich jak smartfony i tablety, co umożliwia łatwe korzystanie z firmowych zasobów w dowolnym miejscu i czasie.
+
+        -     Integracja z Active Directory - serwer Essentials może być zintegrowany z Active Directory, co umożliwia bardziej zaawansowane zarządzanie użytkownikami i grupami.
+
+        -     Wsparcie dla wirtualizacji - serwer Essentials może być uruchamiany jako maszyna wirtualna, co umożliwia łatwe wdrożenie i skalowanie wirtualnych środowisk serwerowych.
+
 d) Windows Server 2012 Foundation - najprostsza edycja, przeznaczona dla mikrofirm bez potrzeby wirtualizacji.
 
 
