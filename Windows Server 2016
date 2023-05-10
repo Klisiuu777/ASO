@@ -13,9 +13,12 @@ a) co nowego w porównaniu z Windows Server 2012/2012 R2:
                         
    • chronione maszyny wirtualne - 
    
-   • replika magazynu - 
+   • replika magazynu - Umożliwia niezależną od magazynu, synchroniczną replikację między klastrami lub serwerami w celu przygotowania
+                        i odzyskiwania po awarii oraz rozciąganie klastra trybu failover między lokacjami w celu zapewnienia wysokiej dostępności.
    
-   • jakie dyski obsługuje funkcja S2D - 
+   • jakie dyski obsługuje funkcja S2D - Obsługiwane dyski obejmują NVMe, SSD połączone za pomocą SATA lub SAS oraz HDD
    
-   • network Controller - 
+   • network Controller - Kontroler sieci jest podstawą zarządzania programowalnej sieci komputerowej (SDN). 
+                          Jest to wysoce skalowalna rola serwera, która zapewnia scentralizowany, programowalny punkt automatyzacji do zarządzania, 
+                          konfigurowania, monitorowania i rozwiązywania problemów z infrastrukturą sieci wirtualnej.
    
