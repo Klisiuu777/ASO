@@ -1,4 +1,4 @@
-a) co nowego w porównaniu z Windows Server 2012/2012 R2:
+a) Co nowego w porównaniu z Windows Server 2012/2012 R2:
    
    • AD FS (Active Directory Federation Services) - jest to zęść oprogramowania firmy Microsoft, instalowana na systemie operacyjnym Windows Server. 
                                                     umożliwia jednorazowe logowanie do niezależnych aplikacji, w czasie trwania jednej sesji.
@@ -22,6 +22,40 @@ a) co nowego w porównaniu z Windows Server 2012/2012 R2:
    • pulpit zdalny - jest to funkcja, która umożliwia zdalne uruchamianie środowiska pulpitu komputera osobistego z jednego systemu, 
                      podczas gdy jest wyświetlane na oddzielnym urządzeniu.
                      
-b) wymagania sprzętowe:
+b) Wymagania sprzętowe dla Windows 2016:
 
+   • Minimalne: 
+   • Zalecane: 
+   • Limit RAM: 
+   • Jakie procesory:
+   • Max procesorów maksymalnie: 
+   • jakie mają być dyski na serwerze: 
+   • Co z serwerem jeżeli ma więcej niż 16GB RAM: 
+   
+c) Edycje Windows Server 2016:
    •
+   •
+   •
+   •
+   
+d) Licencjonowanie:
+   • ilość procesorów czy ilość rdzeni?: 
+   • ile środowisk dla edycji standard?: 
+   •
+   •
+   •
+   •
+   •
+   •
+   •
+   •
+   
+d) Dostęp zdalny:
+   .
+
+
+
+
+
+
+   
