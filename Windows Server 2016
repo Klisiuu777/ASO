@@ -25,6 +25,7 @@ a) Co nowego w porównaniu z Windows Server 2012/2012 R2:
                      podczas gdy jest wyświetlane na oddzielnym urządzeniu.
                      
                      
+                     
 b) Wymagania sprzętowe dla Windows 2016:
 
    • Minimalne: 
@@ -35,6 +36,7 @@ b) Wymagania sprzętowe dla Windows 2016:
    • jakie mają być dyski na serwerze: 
    • Co z serwerem jeżeli ma więcej niż 16GB RAM: 
   
+  
    
 c) Edycje Windows Server 2016:
 
@@ -43,6 +45,7 @@ c) Edycje Windows Server 2016:
    • Windows Server 2016 Datacenter
    • Windows Server 2016 Essentials
    • Windows Server 2016 MultiPoint Premium Server
+   
    
    
 d) Licencjonowanie:
@@ -74,21 +77,32 @@ d) Licencjonowanie:
    • jakie środowiska: Windows Server 2016 obsługuje różne rodzaje środowisk, takie jak fizyczne serwery, maszyny wirtualne, kontenery Docker itp.
    
    
+   
 e) Dostęp zdalny:
 
    • Windows Server 2016 oferuje różne metody dostępu zdalnego, takie jak pulpity zdalne, PowerShell remoting, usługi sieciowe, protokoły VPN itp.
    • Dostęp zdalny można skonfigurować i zarządzać z poziomu narzędzi administracyjnych dostępnych w systemie.
    
    
+   
 f-v1.0) Rolling update:
 
-   • Rolling update w Windows Server 2016 to mechanizm aktualizacji klastra serwerów bez przerywania dostępności usług. 
-     Pozwala na wprowadzenie aktualizacji na poszczególne węzły klastra w sposób stopniowy i kontrolowany, minimalizując wpływ na działanie aplikacji i usług.
+       • Rolling update w Windows Server 2016 to mechanizm aktualizacji klastra serwerów bez przerywania dostępności usług. 
+         Pozwala na wprowadzenie aktualizacji na poszczególne węzły klastra w sposób stopniowy i kontrolowany, minimalizując wpływ na działanie aplikacji i usług.
      
 f-v2.0) Różnice w edycjach pod względem ról i usług serwera Windows Server 2016:
 
-        • 
-        • 
+        • Różnice między edycjami Windows Server 2016 dotyczą głównie możliwości wirtualizacji, dostępności funkcji oraz skalowalności. 
+          Na przykład, edycja Datacenter oferuje nieograniczoną wirtualizację, podczas gdy edycja Standard ma ograniczoną liczbę środowisk wirtualnych. 
+          Różnice dotyczą również dostępności niektórych funkcji, takich jak Shielded VMs i Storage Replica, które są dostępne tylko w niektórych edycjach.
+    
+f-v3.0) Różnice między wersjami Windows Server 2012 a 2016:
+
+        • Windows Server 2016 wprowadził wiele nowych funkcji i usprawnień w porównaniu z Windows Server 2012. Niektóre z najważniejszych różnic to:
+            - Wprowadzenie Nano Servera jako minimalistycznej wersji systemu operacyjnego.
+            - Poprawiona wydajność, bezpieczeństwo i skalowalność.
+            - Obsługa kontenerów Docker.
+            - Rozszerzone możliwości wirtualizacji, takie jak Shield.
 
 
 
