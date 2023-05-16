@@ -84,7 +84,6 @@ e) Dostęp zdalny:
    • Dostęp zdalny można skonfigurować i zarządzać z poziomu narzędzi administracyjnych dostępnych w systemie.
    
    
-   
 f-v1.0) Rolling update:
 
        • Rolling update w Windows Server 2016 to mechanizm aktualizacji klastra serwerów bez przerywania dostępności usług. 
