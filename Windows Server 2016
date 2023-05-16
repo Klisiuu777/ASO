@@ -89,11 +89,13 @@ f-v1.0) Rolling update:
        • Rolling update w Windows Server 2016 to mechanizm aktualizacji klastra serwerów bez przerywania dostępności usług. 
          Pozwala na wprowadzenie aktualizacji na poszczególne węzły klastra w sposób stopniowy i kontrolowany, minimalizując wpływ na działanie aplikacji i usług.
      
+     
 f-v2.0) Różnice w edycjach pod względem ról i usług serwera Windows Server 2016:
 
         • Różnice między edycjami Windows Server 2016 dotyczą głównie możliwości wirtualizacji, dostępności funkcji oraz skalowalności. 
           Na przykład, edycja Datacenter oferuje nieograniczoną wirtualizację, podczas gdy edycja Standard ma ograniczoną liczbę środowisk wirtualnych. 
           Różnice dotyczą również dostępności niektórych funkcji, takich jak Shielded VMs i Storage Replica, które są dostępne tylko w niektórych edycjach.
+    
     
 f-v3.0) Różnice między wersjami Windows Server 2012 a 2016:
 
