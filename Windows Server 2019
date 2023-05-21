@@ -3,9 +3,13 @@ WSZYSTKIE PODANE INFORMACJE MOGŁY ZOSTAĆ NIEDOKŁADNIE SPRAWDZONE LUB PRODUCEN
        Co nowego w Windows Server 2019?
 
    • Windows Subsystem for Linux (WSL): Umożliwia uruchamianie aplikacji i narzędzi Linuksa na Windows Server 2019.
+   
    • Obsługa Kubernetes: Windows Server 2019 oferuje wbudowane wsparcie dla zarządzania kontenerami Kubernetes.
+   
    • Nowe funkcje GUI wprowadzone w Windows 10 w wersji 1809: M.in. Storage Spaces Direct, Storage Migration Service, Storage Replica i System Insights.
+   
    • Ulepszony Windows Defender: Zawiera zaawansowane funkcje ochrony przed zagrożeniami, takie jak rozszerzona ochrona przed atakami i atakami ransomware.
+   
    • Windows Admin Center: Narzędzie do zarządzania i monitorowania serwerów, które oferuje centralne miejsce do zarządzania wieloma funkcjami systemu.
 
 
