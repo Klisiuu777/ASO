@@ -29,13 +29,13 @@ a) Co nowego w porównaniu z Windows Server 2012/2012 R2:
                      
 b) Wymagania sprzętowe dla Windows 2016:
 
-   • Minimalne: 
-   • Zalecane: 
-   • Limit RAM: 
-   • Jakie procesory:
-   • Max procesorów maksymalnie: 
-   • jakie mają być dyski na serwerze: 
-   • Co z serwerem jeżeli ma więcej niż 16GB RAM: 
+   • Minimalne: 1,4 GHz 64-bitowy procesor, 512 MB pamięci RAM, 32 GB przestrzeni dyskowej.
+   • Zalecane: 3,1 GHz 64-bitowy procesor, 2 GB pamięci RAM, 40 GB przestrzeni dyskowej.
+   • Limit RAM: Limit RAM zależy od wybranej edycji. Na przykład w edycji Standard maksymalny limit RAM wynosi 24 TB.
+   • Jakie procesory: Intel i AMD.
+   • Max procesorów maksymalnie: Maksymalna liczba obsługiwanych procesorów zależy od wybranej edycji. Na przykład w edycji Standard maksymalnie 64 procesory.
+   • jakie mają być dyski na serwerze: Dla dysków serwerowych zaleca się użycie dysków SAS lub SSD o wysokiej wydajności.
+   • Co z serwerem jeżeli ma więcej niż 16GB RAM: Jeśli serwer ma więcej niż 16 GB RAM, wymagane jest licencjonowanie systemu operacyjnego za pomocą modelu Core-based Licensing.
   
   
    
