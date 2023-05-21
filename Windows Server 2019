@@ -1,0 +1,55 @@
+WSZYSTKIE PODANE INFORMACJE MOGŁY ZOSTAĆ NIEDOKŁADNIE SPRAWDZONE LUB PRODUCENT MÓGŁ ZAKTUALIZOWAĆ INFORMACJE
+
+    Co nowego w Windows Server 2019?
+
+    Windows Subsystem for Linux (WSL): Umożliwia uruchamianie aplikacji i narzędzi Linuksa na Windows Server 2019.
+    Obsługa Kubernetes: Windows Server 2019 oferuje wbudowane wsparcie dla zarządzania kontenerami Kubernetes.
+    Nowe funkcje GUI wprowadzone w Windows 10 w wersji 1809: M.in. Storage Spaces Direct, Storage Migration Service, Storage Replica i System Insights.
+    Ulepszony Windows Defender: Zawiera zaawansowane funkcje ochrony przed zagrożeniami, takie jak rozszerzona ochrona przed atakami i atakami ransomware.
+    Windows Admin Center: Narzędzie do zarządzania i monitorowania serwerów, które oferuje centralne miejsce do zarządzania wieloma funkcjami systemu.
+
+    Wyjaśnij znaczenia i opisz do czego służą:
+
+    WSL (Windows Subsystem for Linux): Pozwala na uruchamianie aplikacji i narzędzi Linuksa na Windows Server 2019.
+    TPM (Trusted Platform Module): Moduł bezpieczeństwa sprzętowego, który zapewnia funkcje kryptograficzne i zabezpieczenia sprzętowe.
+    Usługa migracji magazynu (Storage Migration Service): Umożliwia łatwą migrację danych z innych serwerów na Windows Server 2019.
+    Ulepszone uwierzytelnianie usługi Active Directory za pomocą interfejsu API sieci Web: Zapewnia dodatkowe możliwości uwierzytelniania i zarządzania usługą Active Directory.
+    Rozszerzona wersja usługi Windows Defender: Zapewnia zaawansowaną ochronę przed zagrożeniami i atakami na serwer.
+    Ochrona maszyn wirtualnych: Zapewnia zintegrowaną ochronę maszyn wirtualnych przed zagrożeniami i atakami.
+    Podsieć szyfrowana za pomocą sieci SDN (Software-Defined Networking): Zapewnia bezpieczne i zaszyfrowane połączenie między wirtualnymi maszynami w sieci SDN.
+    Usługa ochrony hosta dla maszyn wirtualnych: Zapewnia dodatkową ochronę hosta dla maszyn wirtualnych na serwerze.
+    Device Guard: Zapewnia zwiększoną ochronę przed niezaufanym oprogramowaniem i atakami na urządzenia.
+    Credential Guard: Oferuje zaawansowane zabezpieczenia uwierzytelniania i ochrony informacji uwierzytelniających.
+    Klaster pracy awaryjnej w systemie Windows Server 2019: Pozwala na tworzenie klastrów awaryjnych w celu zapewnienia ciągłości działania aplikacji w przypadku awarii.
+    Windows Admin Center: Narzędzie do zarządzania i monitorowania serwerów, które oferuje centralne miejsce do zarządzania wieloma funkcjami systemu.
+    Infrastruktura hiperkonwergentna: System umożliwiający połączenie obliczeń, pamięci masowych i sieci w jednym zintegrowanym środowisku.
+
+    Minimalne wymagania sprzętowe dla Windows Server 2019:
+
+    Procesor: 1,4 GHz 64-bitowy procesor
+    Pamięć RAM: 2 GB
+    Dysk twardy: 32 GB wolnego miejsca na dysku
+    Karta graficzna: Kompatybilna z DirectX 9.0c
+
+    Wymień i scharakteryzuj edycje Windows Server 2019:
+
+    Windows Server 2019 Standard: Oferuje funkcje ogólne przeznaczone dla średnich i dużych firm. Obsługuje do 64 fizycznych procesorów.
+    Windows Server 2019 Datacenter: Oferuje nieograniczoną wirtualizację i skalowalność. Obsługuje do 64 fizycznych procesorów.
+    Windows Server 2019 Essentials: Przeznaczona dla małych firm, obsługuje maksymalnie 25 użytkowników i 50 urządzeń.
+    Windows Server 2019 IoT Core: Optymalizowana wersja systemu dla urządzeń typu IoT (Internet of Things).
+
+    Modele licencjonowania:
+
+    Licencjonowanie oparte jest na ilości rdzeni, gdzie każda licencja obejmuje pewną liczbę rdzeni.
+    Edycja Datacenter pozwala na uruchomienie nieograniczonej liczby maszyn wirtualnych na jednym serwerze.
+    Edycja Standard pozwala na uruchomienie maksymalnie dwóch maszyn wirtualnych na jednym serwerze.
+    CAL (Client Access License): Licencje umożliwiające użytkownikom dostęp do usług serwera. CAL jest wymagany dla każdego użytkownika lub urządzenia korzystającego z funkcji serwera.
+    Uprawnienia do wirtualizacji: W edycji Standard można używać jednej licencji Windows Server do wirtualizacji jednego środowiska, a edycja Datacenter umożliwia wirtualizację nieograniczonej liczby środowisk.
+    W edycji Standard wszystkie rdzenie na serwerze muszą być licencjonowane.
+    Edycja Essentials pozwala na obsługę maksymalnie 2 procesorów fizycznych i 64 GB pamięci RAM.
+
+    Różnice między wersjami Windows Server 2016 a Windows Server 2019:
+
+    Windows Server 2019 wprowadza wiele nowych funkcji i ulepszeń, takich jak WSL, obsługa Kubernetes, Storage Migration Service, rozszerzona wersja usługi Windows Defender i wiele innych.
+    Windows Server 2019 oferuje lepszą wydajność, skalowalność i bezpieczeństwo w porównaniu do poprzedniej wersji.
+    Wprowadzono ulepszenia w obszarze zarządzania, w tym Windows Admin Center, który zapewnia łat
