@@ -31,7 +31,10 @@ b) Wymagania sprzętowe dla Windows 2016:
 
    • Minimalne: 1,4 GHz 64-bitowy procesor, 512 MB pamięci RAM, 32 GB przestrzeni dyskowej.
    • Zalecane: 3,1 GHz 64-bitowy procesor, 2 GB pamięci RAM, 40 GB przestrzeni dyskowej.
-   • Limit RAM: Limit RAM zależy od wybranej edycji. Na przykład w edycji Standard maksymalny limit RAM wynosi 24 TB.
+   • Limit RAM: Limit RAM zależy od wybranej edycji. W edycji Datacenter 24TB RAM
+                                                              Standard 24TB RAM
+                                                              Essentials 64GB RAM
+                                                                          
    • Jakie procesory: Intel i AMD.
    • Max procesorów maksymalnie: Maksymalna liczba obsługiwanych procesorów zależy od wybranej edycji. Na przykład w edycji Standard maksymalnie 64 procesory.
    • jakie mają być dyski na serwerze: Dla dysków serwerowych zaleca się użycie dysków SAS lub SSD o wysokiej wydajności.
@@ -73,7 +76,9 @@ d) Licencjonowanie:
                                                                                    Oferuje podstawowe funkcje serwera, takie jak udostępnianie plików, drukowanie, 
                                                                                    udostępnianie aplikacji, kopie zapasowe itp.
    • ile środowisk: Liczba środowisk wirtualnych zależy od wybranej edycji. 
-                    Na przykład w edycji Standard można uruchomić do dwóch środowisk wirtualnych, a w edycji Datacenter nieograniczoną liczbę.
+                    Na przykład w edycji Datacenter: nieograniczona liczba fizycznych środowisk wirtualizacyjnych (Hyper-V) na jednym fizycznym serwerze.
+                                         Standard: maksymalnie 2 fizyczne środowiska wirtualizacyjne (Hyper-V) na jednym fizycznym serwerze.
+                                         Essentials: maksymalnie 1 fizyczne środowisko wirtualizacyjne (Hyper-V).
                     
    • jakie środowiska: Windows Server 2016 obsługuje różne rodzaje środowisk, takie jak fizyczne serwery, maszyny wirtualne, kontenery Docker itp.
    
